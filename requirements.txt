@@ -1,0 +1,5 @@
+dlisio
+lasio
+pandas
+numpy
+matplotlib
